@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Internship Project at THDC-India Limited (Rishikesh)
 
 ## Problem Statement /  AIM of the WebApp
@@ -170,3 +171,7 @@ LinkedIn : https://www.linkedin.com/in/rohit-khankriyal-359680242/
 
 
 
+=======
+# GateGuard
+GateGuard, a MERN project, manages visitor entry and exit in offices. Securely storing visitor information with MongoDB, it offers an intuitive React.js frontend and real-time updates with Node.js, enhancing security and visitor experiences in office environments.
+>>>>>>> 041471341bb9362f8f555d2798221cf07b83ff20
