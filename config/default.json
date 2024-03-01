@@ -1,0 +1,11 @@
+
+{
+    "mongoURI": "mongodb://127.0.0.1/entrymanagement",
+    "EMAIL_HOST": "smtp.ethereal.email",
+    "EMAIL_PORT": 587,
+    "EMAIL_USER": "santos.langosh@ethereal.email",
+    "EMAIL_PASSWORD": "KyTK4KwRXuu2C9fkcv",
+    "API_KEY": "283eb2ce",
+    "API_SECRET": "PTEWvYoig78n6roV",
+    "PHONE_NUMBER": "+91 89580 49750" 
+}
