@@ -1,6 +1,6 @@
 
 {
-    "mongoURI": "mongodb+srv://khankriyalrohit434:P1kiOg4Wzr71dvW4@gateguard.yb3of.mongodb.net/?retryWrites=true&w=majority&appName=GateGuard",
+    "mongoURI": "mongodb+srv://khankriyalrohit434:P1kiOg4Wzr71dvW4@gateguard.yb3of.mongodb.net/?authSource=admin&retryWrites=true&w=majority&ssl=true",
     "EMAIL_HOST": "smtp.ethereal.email",
     "EMAIL_PORT": 587,
     "EMAIL_USER": "santos.langosh@ethereal.email",
